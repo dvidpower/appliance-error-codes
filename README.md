@@ -1,65 +1,30 @@
-# Appliance Error Codes Database
+# Appliancescare Appliance Repair LLC
 
-Technical appliance error code database maintained by Appliancescare Appliance Repair.
+Professional appliance repair company serving Miami, Hialeah, Doral, Kendall, Miami Lakes and surrounding areas.
 
-This repository contains structured appliance diagnostic data for:
+## Appliance Repair Services
+- Refrigerator Repair
+- Dryer Repair
+- Washer Repair
+- Dishwasher Repair
+- Microwave Repair
+- Oven Repair
 
-- Refrigerators
-- Washers
-- Dryers
-- Dishwashers
-- Ovens
-- Microwaves
+## Technical Resources
+This repository is part of the Appliancescare diagnostic project focused on:
+- appliance error codes
+- troubleshooting systems
+- appliance diagnostics
+- repair references
 
-Supported appliance brands include:
-
-- Samsung
-- LG
-- Whirlpool
-- GE
-- Frigidaire
-- Bosch
-- Maytag
-- KitchenAid
-- Kenmore
-- Electrolux
-
-## Appliance Diagnostic System
-
-This repository is part of a larger appliance troubleshooting and diagnostic project focused on:
-
-- Appliance error codes
-- Technical diagnostics
-- Repair intelligence
-- Failure analysis
-- Appliance troubleshooting systems
-
-## Miami Appliance Repair
-
-Professional appliance repair and appliance diagnostics in Miami-Dade County.
-
-Website:
+## Website
 https://www.appliancescare.com
 
-Service Areas:
-- Miami
-- Hialeah
-- Doral
-- Miami Lakes
-- Kendall
-- Coral Gables
-- Homestead
+## Miami Appliance Repair
+https://www.appliancescare.com/appliance-repair-miami.html
 
-## Technical Data Structure
+## Hialeah Appliance Repair
+https://www.appliancescare.com/appliance-repair-hialeah.html
 
-The database is organized using structured JSON diagnostic architecture including:
-
-- Error code definitions
-- Severity levels
-- Diagnostic procedures
-- Component failure mapping
-- Technical troubleshooting paths
-
-## Repository Purpose
-
-This repository helps organize appliance repair diagnostic information for technicians, troubleshooting systems and appliance repair workflows.
+## Contact
+Phone: 786-587-0722
